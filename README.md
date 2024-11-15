@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sushantmanjare17269@gmail.com**
 
-- 📄 Know about my experiences [https://amber-shoshanna-97.tiiny.site](https://amber-shoshanna-97.tiiny.site)
+- 📄 Know about my experiences [Click Here](https://pdf.ac/3ooTvQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
