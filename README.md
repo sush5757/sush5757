@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sush5757" alt="sush5757" /></a> </p>
 
-- 💬 Ask me about **java, react js, spring boot, mysql, dotnet**
+- 💬 Ask me about **java, spring boot,angular, mysql**
 
 - 📫 How to reach me **sushantmanjare17269@gmail.com**
 
