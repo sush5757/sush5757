@@ -1,26 +1,188 @@
+```md
 <h1 align="center">Hi 👋, I'm Sushant Manjare</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sush5757&label=Profile%20views&color=0e75b6&style=flat" alt="sush5757" /> </p>
+<h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | Angular | MySQL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sush5757" alt="sush5757" /></a> </p>
-
-- 💬 Ask me about **java, spring boot,angular, mysql**
-
-- 📫 How to reach me **sushantmanjare17269@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://pdf.ac/3ooTvQ)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushant-manjare-64b271230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushant-manjare-64b271230/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sushantmanjare11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sushantmanjare11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sushantmanjare17269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushantmanjare17269" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sush5757&label=Profile%20views&color=0e75b6&style=flat" alt="sush5757 profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sush5757&show_icons=true&locale=en&layout=compact" alt="sush5757" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sush5757&show_icons=true&locale=en" alt="sush5757" /></p>
+- 💼 Full Stack Developer with a strong interest in building modern web applications
+- ☕ Working with Java, Spring Boot, Angular, MySQL, HTML, CSS, and JavaScript
+- 🔧 Building backend services and responsive frontend applications
+- 🚀 Interested in designing scalable web applications and REST APIs
+- 🌱 Continuously improving my full-stack development skills
+- 📄 View my resume: **[ADD YOUR RESUME LINK HERE]**
+- 💻 Explore my GitHub: [sush5757](https://github.com/sush5757)
+- 📫 Reach me at: **sushantmanjare17269@gmail.com**
+- 💼 Connect with me on LinkedIn: **[ADD YOUR LINKEDIN LINK HERE]**
+
+---
+
+## 🛠️ Languages & Tools
+
+### ☕ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,js,html,css" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### [YOUR JOB TITLE] — [YOUR COMPANY NAME]
+
+📍 [CITY, STATE] | [START DATE] – Present / [END DATE]
+
+- 🔧 [Add your first responsibility or achievement]
+- 🚀 [Add your second responsibility or achievement]
+- 🧩 [Add a project, feature, or system you worked on]
+- ⚡ [Add a measurable result if available]
+
+> Remove this whole section if you do not want to show experience yet.
+
+---
+
+## 🚀 Projects
+
+### 🛒 Supermarket Management Web App
+
+HTML | CSS | JavaScript | [ADD OTHER TECHNOLOGIES]
+
+A web application for managing supermarket-related workflows.
+
+- 🔧 [Add the main functionality]
+- 📱 [Add a user-facing feature]
+- 🗄️ [Add database or backend details, if applicable]
+
+🔗 [GitHub Repository](https://github.com/sush5757/Supermarket-Management-WebApp)
+
+---
+
+### 📚 Bookskart Project
+
+JavaScript | [ADD OTHER TECHNOLOGIES]
+
+A book-related web application project.
+
+- 🔧 [Add key functionality]
+- 🎨 [Add UI or user experience feature]
+- 🔗 [Add API, database, or authentication details]
+
+🔗 [GitHub Repository](https://github.com/sush5757/Bookskart-Project)
+
+---
+
+### ⚙️ Node Backend Project
+
+Node.js | JavaScript | [ADD DATABASE / FRAMEWORK]
+
+A backend-focused project.
+
+- 🔐 [Add authentication or security feature]
+- 🔧 [Add REST API or business logic feature]
+- 🗄️ [Add database detail]
+
+🔗 [GitHub Repository](https://github.com/sush5757/NodeBackendProject)
+
+---
+
+### ☕ CODSOFT
+
+Java
+
+Java programming projects and practice work.
+
+🔗 [GitHub Repository](https://github.com/sush5757/CODSOFT)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sush5757&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushant's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sush5757&theme=tokyonight&hide_border=true" alt="Sushant's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sush5757&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/sush5757/sush5757/output/github-contribution-grid-snake.svg)
+
+> The snake graph needs a GitHub Action to work. You can leave this line for now and set it up later.
+
+---
+
+## 🏆 Achievements
+
+- 🏅 [ADD HACKATHON / COMPETITION ACHIEVEMENT]
+- 📜 [ADD CERTIFICATION OR AWARD]
+- 🚀 [ADD ANOTHER ACHIEVEMENT]
+
+---
+
+## 📜 Certifications
+
+- [ADD CERTIFICATION NAME] — [ISSUING ORGANIZATION]
+- [ADD CERTIFICATION NAME] — [ISSUING ORGANIZATION]
+
+---
+
+## 🎓 Education
+
+### [YOUR DEGREE]
+
+[COLLEGE / UNIVERSITY NAME]  
+[YEAR] – [YEAR]  
+[CGPA / PERCENTAGE — OPTIONAL]
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:sushantmanjare17269@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sushantmanjare17269%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="[ADD LINKEDIN URL HERE]">
+    <img src="https://img.shields.io/badge/LinkedIn-ADD%20YOUR%20LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+✨ Thanks for visiting my profile!  
+🚀 Full Stack Developer. Always learning.  
+💻 Let's build something amazing together.
+```
