@@ -171,6 +171,7 @@ Dec 2020 - Jun 2023 | **CGPA: 8.86**
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 <p align="center">
