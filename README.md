@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sushant Manjare</h1>
 
 <h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | Angular | MySQL</h3>
@@ -185,4 +184,3 @@ Java programming projects and practice work.
 ✨ Thanks for visiting my profile!  
 🚀 Full Stack Developer. Always learning.  
 💻 Let's build something amazing together.
-```
